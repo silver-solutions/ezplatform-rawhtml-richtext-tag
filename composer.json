@@ -10,9 +10,6 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {
-        "ezsystems/ezplatform-admin-ui": "dev-custom_tag_content_edit as 1.4-dev"
-    },
     "autoload": {
         "psr-4": {
             "EzSystems\\RawHtmlRichTextTagBundle\\" : "."
